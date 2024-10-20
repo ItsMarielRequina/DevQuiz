@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cardViewBgColor">#39B5C5</color>
+    <color name="backgroundColor">#F7F7F7</color>
+    <color name="cardColor">#FFFFFF</color>
+    <color name="blue">#BC65FB</color>
+    <color name="blue2">#EE9F42E3</color>
+    <color name="blue3">#EE8A2DCD</color>
+    <color name="blue_1">#BFD6F6</color>
+    <color name="blue_2">#8DBDFF</color>
+    <color name="blue_3">#E6AD56EC</color>
+    <color name="blue_4">#4A91F2</color>
+    <color name="blue_5">#3B7DD8</color>
+    <color name="blueText">#AD56EC</color>
+    <color name="leader_board_bg">#E1BC7AEC</color>
+    <color name="light_blue">#4316C0F9</color>
+    <color name="light_blue_card_color">#43A216F9</color>
+    <color name="gray">#DCDCDC</color>
+    <color name="gray2">#BEBEBE</color>
+    <color name="cardView_shadow">#3C3F41</color>
+    <color name="orange">#FCA019</color>
+    <color name="red">#F44336</color>
+    <color name="light_red">#42F44336</color>
+    <color name="statusBarColor">#F7F7F7</color>
+</resources>
